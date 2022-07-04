@@ -48,4 +48,4 @@ app.use(function (err, req, res, next) {
 })
 
 
-app.listen(process.env.PORT || 666, () => { console.log("Chào mừng bạn đến với Backend"); })
+app.listen(process.env.PORT || 666, () => { console.log("Chào mừng bạn đến với Backend!"); })
